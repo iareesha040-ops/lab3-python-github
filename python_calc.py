@@ -1,13 +1,13 @@
-def add(a, b):
+def add(a, b): #addition function
     return a + b
 
-def subtract(a, b):
+def subtract(a, b): #subtraction function
     return a - b
 
-def multiply(a, b):
+def multiply(a, b): #multiplication function
     return a * b
 
-def divide(a, b):
+def divide(a, b): #division function
     if b == 0:
         print("Error: cannot divide by zero")
     else:
@@ -19,7 +19,7 @@ def even_odd(n):
     else:
         print(n, "is Odd")
 
-def percentage(a, b):
+def percentage(a, b): #percentage function
     if b == 0:
         print("Error: cannot divide by zero")
     else:
