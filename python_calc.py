@@ -13,7 +13,9 @@ def divide(a, b):
     else:
         print("Result:", a / b)
 
+print("welcome to the calculator"!)
 def even_odd(n):
+
     if n % 2 == 0:
         print(n, "is Even")
     else:
