@@ -1,3 +1,4 @@
+print("welcome to the calculator"!)
 def add(a, b):
     return a + b
 
@@ -13,7 +14,7 @@ def divide(a, b):
     else:
         print("Result:", a / b)
 
-print("welcome to the calculator"!)
+
 def even_odd(n):
 
     if n % 2 == 0:
